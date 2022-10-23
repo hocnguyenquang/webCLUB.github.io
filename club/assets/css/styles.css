@@ -1,0 +1,24 @@
+
+body {
+  background-image: url(../img/anh1.jpg);
+  background-size: cover;
+  height: 650px;
+  background-repeat: no-repeat;
+}
+
+#sign-in-form {
+  background-color: whitesmoke;
+  opacity: 1;
+}
+
+* {
+  text-decoration: none !important;
+}
+
+.sign-in-input:hover {
+}
+
+input:hover {
+  background-color: var(--bs-gray-400);
+}
+
